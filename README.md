@@ -204,7 +204,7 @@ TodosTable:
 
 ```
 
-To query an index you need to use the `query()` method like:
+To query an index you need to Use the `query()` method like:
 
 ```ts
 await this.dynamoDBClient
